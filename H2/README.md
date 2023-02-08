@@ -2,4 +2,6 @@
 
 The link of model after training:
 
-Á´½Ó: pan.baidu.com/s/1m18fDjfHr_zZ6HEkPWnlRw ÌáÈ¡Âë: t8ls
+é“¾æ¥: pan.baidu.com/s/1m18fDjfHr_zZ6HEkPWnlRw æå–ç : t8ls
+
+![test_video_masked](https://raw.githubusercontent.com/0CBH0/openmm_class/main/H2/test_video_masked.gif)
